@@ -1,0 +1,11 @@
+D:\Desktop\trit\trit\bin\Debug\trit.exe.config
+D:\Desktop\trit\trit\bin\Debug\trit.exe
+D:\Desktop\trit\trit\bin\Debug\trit.pdb
+D:\Desktop\trit\trit\obj\Debug\trit.csproj.AssemblyReference.cache
+D:\Desktop\trit\trit\obj\Debug\trit.csproj.SuggestedBindingRedirects.cache
+D:\Desktop\trit\trit\obj\Debug\trit.Form1.resources
+D:\Desktop\trit\trit\obj\Debug\trit.Properties.Resources.resources
+D:\Desktop\trit\trit\obj\Debug\trit.csproj.GenerateResource.cache
+D:\Desktop\trit\trit\obj\Debug\trit.csproj.CoreCompileInputs.cache
+D:\Desktop\trit\trit\obj\Debug\trit.exe
+D:\Desktop\trit\trit\obj\Debug\trit.pdb
